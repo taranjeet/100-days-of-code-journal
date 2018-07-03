@@ -10,3 +10,14 @@ A modified version of the progress of 100 days of code challenge
 **Link to Work** : 
 * [todo-app-backend](https://github.com/taranjeet/todo-app-backend)
 * [todo-app-frontend](https://github.com/taranjeet/todo-app-frontend)
+
+## Day 2: 3 July 2018
+
+**Today's Progress** : Added bootstrap in todo app frontend. Setup JWT based authentication in todo app backend. Created authentication (Login/Signup) using JWT.
+
+**Thoughts** : Followed this [tutorial](https://medium.com/@dakota.lillie/django-react-jwt-authentication-5015ee00ef9a) to implement JWT based authentication in Django and react. Next step would be to integrate this in todo app frontend.
+
+**Link to Work** : 
+* [todo-app-backend](https://github.com/taranjeet/todo-app-backend)
+* [todo-app-frontend](https://github.com/taranjeet/todo-app-frontend)
+* [auth-app-frontend](https://github.com/taranjeet/auth-app-frontend)
