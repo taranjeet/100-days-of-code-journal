@@ -30,3 +30,12 @@ A modified version of the progress of 100 days of code challenge
 
 **Link to Work** : 
 * [react-github-user-info](https://github.com/taranjeet/react-github-user-info)
+
+## Day 4: 5 July 2018
+
+**Today's Progress** : Updated UI of Github user info application. Fixed some bugs related to props.
+
+**Thoughts** : Need to refactor UI for authentication app.
+
+**Link to Work** : 
+* [react-github-user-info](https://github.com/taranjeet/react-github-user-info)
