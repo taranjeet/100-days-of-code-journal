@@ -39,3 +39,12 @@ A modified version of the progress of 100 days of code challenge
 
 **Link to Work** : 
 * [react-github-user-info](https://github.com/taranjeet/react-github-user-info)
+
+## Day 5: 6 July 2018
+
+**Today's Progress** : Created Single Page application using react router.
+
+**Thoughts** : Next would be to implement dynamic url based routing.
+
+**Link to Work** : 
+* [react-spa-demo](https://github.com/taranjeet/react-spa-demo)
