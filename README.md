@@ -48,3 +48,12 @@ A modified version of the progress of 100 days of code challenge
 
 **Link to Work** : 
 * [react-spa-demo](https://github.com/taranjeet/react-spa-demo)
+
+## Day 6: 7 July 2018
+
+**Today's Progress** : Update UI of authentication app.
+
+**Thoughts** : Next would to figure what should be the plan for next week.
+
+**Link to Work** : 
+* [auth-app-frontend](https://github.com/taranjeet/auth-app-frontend)
