@@ -57,3 +57,7 @@ Some tutorials to follow
 * Slack
 * Reddit
 * Pinterest
+
+### Project Ideas
+
+* A business listing SPA using react router
