@@ -47,4 +47,13 @@ Some tutorials to follow
 * [airbnb-clone](https://scotch.io/tutorials/build-an-airbnb-clone-with-react-and-elasticsearch) - third party api integration. basic knowledge of react would do.
 * [giphy-clone](https://scotch.io/tutorials/build-your-own-giphy-alternative-with-react) - third party api integration, third party auth, basic knowledge of react
 * [netflix-clone](https://scotch.io/tutorials/build-a-mini-netflix-with-react-in-10-minutes) - third party api integration, play, pause video
-* [twitter-like-clone](https://scotch.io/tutorials/build-a-twitter-like-search-feed-with-react-js-and-appbase-io) - backend worker to dump data,
+* [twitter-like-clone](https://scotch.io/tutorials/build-a-twitter-like-search-feed-with-react-js-and-appbase-io) - backend worker to dump data
+
+### Clones(to consider creating)
+
+* HN
+* Shopping Cart
+* Trello
+* Slack
+* Reddit
+* Pinterest
