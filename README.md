@@ -57,3 +57,12 @@ A modified version of the progress of 100 days of code challenge
 
 **Link to Work** : 
 * [auth-app-frontend](https://github.com/taranjeet/auth-app-frontend)
+
+## Day 7: 8 July 2018
+
+**Today's Progress** : Implemented dynamic routing using react-router-v4. Selected the roadmap for next week.
+
+**Thoughts** : This [tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf) and [this](https://scotch.io/tutorials/routing-react-apps-the-complete-guide) helped in creating today's content. Next thing that can be picked will be to create a static business listing website (with proper design)
+
+**Link to Work** : 
+* [react-movie-detail-demo](https://github.com/taranjeet/react-movie-detail-demo)
