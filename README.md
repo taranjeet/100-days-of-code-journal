@@ -66,3 +66,12 @@ A modified version of the progress of 100 days of code challenge
 
 **Link to Work** : 
 * [react-movie-detail-demo](https://github.com/taranjeet/react-movie-detail-demo)
+
+## Day 8: 9 July 2018
+
+**Today's Progress** : Implemented basic version of tic-tac-toe game
+
+**Thoughts** : Followed the official [tutorial](https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial) of react. Need to implement history feature. 
+
+**Link to Work** : 
+* [react-tic-tac-toe](https://github.com/taranjeet/react-tic-tac-toe)
