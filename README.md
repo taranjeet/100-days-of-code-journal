@@ -76,11 +76,20 @@ A modified version of the progress of 100 days of code challenge
 **Link to Work** : 
 * [react-tic-tac-toe](https://github.com/taranjeet/react-tic-tac-toe)
 
-## Day 9: 10 July 2018
+## Day 9: 13 July 2018
 
 **Today's Progress** : Fixed major bug(0 based indexing) in tic-tac-toe.
 
 **Thoughts** : Due to this bug, the matching part was not working in the game. Could not code for 3 days due to some personal work. Next day, I expect to implement history feature.
+
+**Link to Work** : 
+* [react-tic-tac-toe](https://github.com/taranjeet/react-tic-tac-toe)
+
+## Day 10: 14 July 2018
+
+**Today's Progress** : Implemented history traversal feature in tic-tac-toe.
+
+**Thoughts** : Busy day, so could not work for longer time.
 
 **Link to Work** : 
 * [react-tic-tac-toe](https://github.com/taranjeet/react-tic-tac-toe)
