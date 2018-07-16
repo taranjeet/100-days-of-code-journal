@@ -93,3 +93,12 @@ A modified version of the progress of 100 days of code challenge
 
 **Link to Work** : 
 * [react-tic-tac-toe](https://github.com/taranjeet/react-tic-tac-toe)
+
+## Day 11: 16 July 2018
+
+**Today's Progress** : A detour from learning react. Did a basic learning session on Ansible(101 sort of)
+
+**Thoughts** : Busy day, so could not work for longer time.
+
+**Link to Work** : 
+* [Ansible 101](https://github.com/taranjeet/taranjeet.github.io/blob/master/notes/ansible.md)
