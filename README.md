@@ -94,11 +94,14 @@ A modified version of the progress of 100 days of code challenge
 **Link to Work** : 
 * [react-tic-tac-toe](https://github.com/taranjeet/react-tic-tac-toe)
 
-## Day 11: 16 July 2018
+## Day 11: 17 July 2018
 
-**Today's Progress** : A detour from learning react. Did a basic learning session on Ansible(101 sort of)
+**Today's Progress** : One more day on Ansible. Learned more about Playbooks, Variables and Precedence Order.
+Made an upstream contribution to ansible docs as well :)
 
-**Thoughts** : Busy day, so could not work for longer time.
+**Thoughts** : Spent most of the day in reading and learning
 
 **Link to Work** : 
-* [Ansible 101](https://github.com/taranjeet/taranjeet.github.io/blob/master/notes/ansible.md)
+* None
+
+
