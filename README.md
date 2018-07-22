@@ -113,4 +113,11 @@ Made an upstream contribution to ansible docs as well :)
 **Link to Work** : 
 * None
 
+## Day 13: 22 July 2018
 
+**Today's Progress** : Did some research on mapping and various methods for preprocessing text before indexing document. Wrote some python code to do the same.
+
+**Thoughts** : Spend most of today's time in planning stuff.
+
+**Link to Work** : 
+* None
